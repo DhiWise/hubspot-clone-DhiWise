@@ -1,3 +1,3 @@
 class AppConfig {
-  static String hapikey = "<token>";
+  static String hapikey = "< HubSpot API Key >";
 }
