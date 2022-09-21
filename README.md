@@ -50,7 +50,7 @@ https://www.figma.com/file/ujTezE27M27qtduON3i7jI/DhiWise-Use-Cases?node-id=4013
 
 ## Run the application.
 
-1. Replace hapikey in appConfig.dart inside lib/core/constants.
+1. Replace HubSpot API key in appConfig.dart inside lib/core/constants.
 
 2. ```Flutter pub get ```
 
