@@ -20,7 +20,7 @@ Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
 ## Figma Design
-https://www.figma.com/file/ujTezE27M27qtduON3i7jI/DhiWise-Use-Cases?node-id=4013%3A1069
+https://www.figma.com/file/AnRyJXZWrEqFgVMOMHqh7y/HubSpot?node-id=0%3A1
 
 ### HubSpot APIs Collections
 
